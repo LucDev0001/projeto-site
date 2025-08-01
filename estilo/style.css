@@ -6,7 +6,7 @@
 body {
   background-color: #e7eed0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 1.2rem;
   color: #948e99;
   padding: 10px;
 }
@@ -19,7 +19,29 @@ main {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
-footer {
-  text-align: center;
-  text-transform: uppercase;
+h2 {
+  color: black;
+  margin: 10px;
+}
+
+p {
+  margin: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.lado {
+  padding: 2px;
+  float: left;
+}
+
+li {
+  list-style: none;
+}
+
+iframe {
+  width: 100%;
 }
