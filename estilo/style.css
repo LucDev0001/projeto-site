@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #e7eed0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #948e99;
+  padding: 10px;
+}
+
+main {
+  background-color: #cad1c3;
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+footer {
+  text-align: center;
+  text-transform: uppercase;
+}
